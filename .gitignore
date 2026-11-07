@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# screenshot capture working files (app data, Chrome profile, test secret)
+/screenshots/capture/app*/
+/screenshots/capture/chrome/
+/screenshots/capture/shots/
+/screenshots/capture/secret.txt
+/screenshots/capture/fail.png

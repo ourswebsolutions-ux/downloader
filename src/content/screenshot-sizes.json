@@ -1,0 +1,313 @@
+{
+  "activate-code-entry": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "activate-code-typed": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "activate-done": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "activate-plan-selected": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "activate-plans": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "leads-dark": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "linkedin-form": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "linkedin-running-late": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "linkedin-stopped": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "main-first-launch": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "maps-captcha-paused": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "maps-form": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "maps-running-late": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "maps-running": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "maps-stopped": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "outreach-campaigns": {
+    "width": 760,
+    "height": 640,
+    "widths": [
+      760
+    ]
+  },
+  "outreach-settings": {
+    "width": 760,
+    "height": 1232,
+    "widths": [
+      760
+    ]
+  },
+  "past-leads": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "pin-confirm": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "pin-create": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "podcasts-cards": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "podcasts-dark": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "podcasts-details": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "podcasts-done": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "podcasts-email-found": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "podcasts-empty": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "podcasts-keyword": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "podcasts-no-email": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "podcasts-platforms": {
+    "width": 2784,
+    "height": 392,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "podcasts-running": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "podcasts-selection": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "podcasts-settings": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "podcasts-table": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "security-menu": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  },
+  "sources-all": {
+    "width": 2880,
+    "height": 1800,
+    "widths": [
+      960,
+      1600,
+      2560
+    ]
+  }
+}

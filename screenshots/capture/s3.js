@@ -1,0 +1,21 @@
+module.exports = async ({ win, shot, code, sleep }) => {
+  await win.getByRole('button', { name: 'Activate' }).first().click();
+  const d = win.getByRole('dialog').last();
+  await d.waitFor();
+  await d.locator('input[value=six_months]').check({ force: true });
+  await shot('activate-plan-selected');
+  await d.locator('.act-submit').click();
+  await d.getByLabel('Activation code').waitFor({ timeout: 30000 });
+  await sleep(600);
+  await shot('activate-code-entry');
+  console.log((await d.innerText()).slice(0, 1500));
+  const id = (await win.evaluate(() => window.leadFinder.activationStatus())).activationId;
+  const c = code(id);
+  await d.getByLabel('Activation code').click();
+  await win.keyboard.type(c, { delay: 80 });
+  await shot('activate-code-typed');
+  await d.getByRole('button', { name: /Verify/ }).click();
+  await sleep(1500);
+  await shot('activate-done');
+  console.log('----', (await win.getByRole('dialog').last().innerText().catch(() => 'no dialog')).slice(0, 800));
+};
